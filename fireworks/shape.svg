@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="820px" height="200px" viewBox="0 0 820 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="Path" stroke="#979797" points="28 174 28 30 76.6466391 99.618914 123 30 123 174"></polyline>
+        <polyline id="Path-2" stroke="#979797" points="163 174 204.153758 30 251 174"></polyline>
+        <path d="M284.475663,31 C281.393417,123 293.29065,169 320.16736,169 C347.04407,169 359.211865,123 356.670746,31" id="Path-3" stroke="#979797"></path>
+        <path d="M413,169 L413,30.2609553 C459,21.35211 482,30.6973154 482,58.2965714 C482,85.8958274 466.694886,100.505565 436.084659,102.125784 L482,169" id="Path-4" stroke="#979797"></path>
+        <polyline id="Path-7" stroke="#979797" points="709 169 709 30 776 169 776 31"></polyline>
+        <polyline id="Path-5" stroke="#979797" points="580 31 515 31 515 169 580 169"></polyline>
+        <polyline id="Path-5" stroke="#979797" points="680 31 615 31 615 169 680 169"></polyline>
+    </g>
+</svg>
